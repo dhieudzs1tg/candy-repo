@@ -1,8 +1,8 @@
 {
-    "name": "Candy",
+    "name": "KingJoe",
     "version": "1.2.14",
     "description": "A simple Facebook Messenger Bot for everyone",
-    "main": "candy.js",
+    "main": "kjoe.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dhieudzs1tg/candy-repo/"
+        "url": "git+https://github.com/dhieudzs1tg/kingjoe-repo/"
     },
     "author": "dhieu",
     "license": "GPL-3.0",
